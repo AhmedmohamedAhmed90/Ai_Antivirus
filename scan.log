@@ -15,3 +15,17 @@
 2025-04-24 12:44:09,595 [INFO] Starting scan on C:\Users\Lenovo\OneDrive\Desktop\lib...
 2025-04-24 12:44:09,795 [INFO] Scan Complete.
 2025-04-24 12:44:09,795 [INFO] Summary: Files Scanned: 7, Threats Found: 0, Actions Taken: 0
+2025-04-24 18:17:29,268 [INFO] Starting processing of MalwareBazaar CSV: full.csv
+2025-04-24 18:17:29,268 [WARNING] First non-comment row doesn't look like expected header: ['2025-04-24 10:02:57', ' "f09565014effccfaae4c47a2b92ebd8b2525ac6480774aa809d59955ef439241"', ' "6f3fe0c3412f02a50280e7344089f6ca"', ' "3ee9670cf7399a660fbc674b1b293250e8de0108"', ' "abuse_ch"', ' "na"', ' "elf"', ' "application/x-executable"', ' "Prometei"', ' "n/a"', ' "n/a"', ' "n/a"', ' "12288:qb143S0q+8eXS1/f2Wc3slC3yjTjMv+9XSJhBXEsV3b9gh4J8zMSv7MzOup8MplM:qmShf4OTjMgXSJhBXEsVrmz9MOup1Khj"', ' "T181155B653700EF5EF39DE27108F287E046D125F31AD24296A278C71C6EE161D28AFDE9"']. Attempting to process.
+2025-04-24 18:17:29,279 [INFO] Finished processing. Created signatures.db with 1108 unique signatures.
+2025-04-24 18:18:43,393 [INFO] Loaded 1108 signatures from signatures.db
+2025-04-24 18:18:43,405 [INFO] Starting scan on C:\Users\ZIAD\OneDrive\Desktop\Training_Web_project...
+2025-04-24 18:18:43,504 [INFO] Scan Complete.
+2025-04-24 18:18:43,505 [INFO] Summary: Files Scanned: 27, Threats Found: 0, Actions Taken: 0
+2025-04-24 18:22:03,724 [INFO] Loaded 1108 signatures from signatures.db
+2025-04-24 18:22:37,405 [INFO] Starting scan on C:\Users\ZIAD\OneDrive\Desktop\x...
+2025-04-24 18:22:37,435 [INFO] Scan Complete.
+2025-04-24 18:22:37,435 [INFO] Summary: Files Scanned: 3, Threats Found: 0, Actions Taken: 0
+2025-04-24 18:22:43,691 [INFO] Starting scan on C:\Users\ZIAD\OneDrive\Desktop\x...
+2025-04-24 18:22:43,692 [INFO] Scan Complete.
+2025-04-24 18:22:43,692 [INFO] Summary: Files Scanned: 3, Threats Found: 0, Actions Taken: 0
